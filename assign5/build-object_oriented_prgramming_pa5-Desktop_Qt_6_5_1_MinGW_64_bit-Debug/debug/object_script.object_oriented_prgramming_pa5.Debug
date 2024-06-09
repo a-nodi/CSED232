@@ -1,0 +1,11 @@
+debug/block.o
+debug/board.o
+debug/game.o
+debug/logger.o
+debug/main.o
+debug/blockui.o
+debug/gameui.o
+debug/mainwindow.o
+debug/moc_game.o
+debug/moc_gameui.o
+debug/moc_mainwindow.o
